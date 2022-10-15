@@ -249,6 +249,10 @@ before next step and You must login.
 
       bench setup procfile
       
+###  Drop Site
+
+      bench drop-site [OPTIONS] SITE
+      
       
 ### To start develop server:   
       bench start
